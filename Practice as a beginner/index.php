@@ -63,8 +63,7 @@
         echo "<br>";
         echo strpos($str, 'Basically');
         ?>
-        
-
+        <hr>
       </li>
     </ul>
 </body>
